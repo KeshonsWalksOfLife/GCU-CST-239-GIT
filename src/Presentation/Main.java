@@ -8,7 +8,7 @@
 package Presentation;
 
 public class Main {
-	/* This is lets the full application work from
+	/* This lets the full application work from
 	 * the store class that is inside of the package*/
 	public static void main(String[] args) {
 		Store store = new Store();

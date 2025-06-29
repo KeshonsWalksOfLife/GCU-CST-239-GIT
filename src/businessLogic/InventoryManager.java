@@ -4,7 +4,8 @@
  * Milestone 1
  * 06/29/2025
  * 
- * 
+ * Pratt, M. (2023, December 5). All the Ways Java Uses the Colon Character.  Baeldung. 
+ * https://www.baeldung.com/java-colon
  * */
 
 package businessLogic;

@@ -4,12 +4,12 @@
  * Milestone 1
  * 06/29/2025
  * 
- * W3Schools.com.(2024). Java Scanner nextInt() - W3Schools.W3schools.com. 
- * https://www.w3schools.com/java/ref_scanner_nextint.asp
  * GeeksforGeeks. (2017, May 15). Switch Statements in Java. GeeksforGeeks. 
  * https://www.geeksforgeeks.org/java/switch-statement-in-java/
  * Variables (The JavaTM Tutorials > Learning the Java Language > Language Basics). (2019). Oracle.com. 
  * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
+ * W3Schools.com.(2024). Java Scanner nextInt() - W3Schools.W3schools.com. 
+ * https://www.w3schools.com/java/ref_scanner_nextint.asp
  * */
 
 package Presentation;

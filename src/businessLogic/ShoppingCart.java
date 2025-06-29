@@ -8,7 +8,7 @@
  * https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
  * How to use the toString method in Java? - Stack Overflow.(2015, March 7). Stack Overflow.
  * https://stackoverflow.com/questions/3615721/how-to-use-the-tostring-method-in-java
- * Pratt, M. (2023, December 5). All the Ways Java Uses the Colon Character.  Baeldung. 
+ * Pratt, M. (2023, December 5). All the Ways Java Uses the Colon Character.Baeldung. 
  * https://www.baeldung.com/java-colon
  * Variables (The JavaTM Tutorials > Learning the Java Language > Language Basics). (2019). Oracle.com. 
  * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html

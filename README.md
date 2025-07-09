@@ -49,4 +49,7 @@ https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_
 --- 
 
 ## The Milestone videos saved in Google Drive
+- Milestone 1 Video = https://drive.google.com/file/d/19lUdyKh2KyptoHDLsuMlwRyVxtoS5oto/view?usp=drive_link
+- Milestone 2 Video = https://drive.google.com/file/d/1pm1ZZs2hum2jO_YqPT0p-n_vPlfEn62M/view?usp=drive_link
+
 https://drive.google.com/file/d/19lUdyKh2KyptoHDLsuMlwRyVxtoS5oto/view?usp=drive_link

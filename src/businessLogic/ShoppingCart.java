@@ -18,7 +18,6 @@ package businessLogic;
 
 import java.util.ArrayList;
 import inventory.Book;
-import businessLogic.ShoppingCart;
 
 /*
  *This represents the shopping cart in the application which will allow user

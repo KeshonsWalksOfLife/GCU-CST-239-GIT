@@ -1,7 +1,7 @@
 /*
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 1
+ * Milestone 2
  * 06/29/2025
  * 
  * GeeksforGeeks. (2017, May 15). Switch Statements in Java. GeeksforGeeks. 
@@ -53,16 +53,17 @@ public class Store {
 		boolean running = true;
 		loadBooks(); 
 	
+		System.out.println("Welcome to the Neighborhood Bookstore!");
+		System.out.println("Story telling your vision to life.\n");
 	
 	while (running) {
 		// Menu Items
-		System.out.println("Welcome To The Don's Fortress Of Knowledge");
 		System.out.println("1. View Books");
 		System.out.println("2. Buy a Book");
 		System.out.println("3. View Cart");
 		System.out.println("4. Cancel Purchase");
 		System.out.println("5. Checkout");
-		System.out.println("6. Exit");
+		System.out.println("6. Exit \n");
 		System.out.print("Choose an option: ");
 		
 		int choice = scanner.nextInt();
@@ -75,7 +76,7 @@ public class Store {
 			break;
 		case 2: 
 			// purchases a book by title
-			System.out.print("Enter the book title to purchase: ");
+			System.out.print("Enter the book title of interest: ");
 			String title = scanner.nextLine();
 			
 			// The instance of Book initialized select to get the book from inventory 
@@ -87,9 +88,9 @@ public class Store {
 			if(selected != null && selected.getQuantity() > 0) {
 					cart.addToCart(selected);
 					selected.setQuantity(selected.getQuantity() - 1);
-					System.out.println("Book has been added to cart.");
+					System.out.println("Book has been added to your cart.");
 				} else {
-					System.out.println("Book is out of stock");
+					System.out.println("Sorry, Book is out of stock, currently working in progress.");
 				}
 			break;
 		case 3: 
@@ -99,7 +100,7 @@ public class Store {
 		case 4:
 			// Cancels all books in the cart
 			cart.cancelCart();
-			System.out.println("Cart is cleared.");
+			System.out.println("The Cart is now cleared.");
 			break;
 		case 5: 
 			// Finalize payment
@@ -109,12 +110,12 @@ public class Store {
 			break;
 		case 6: 
 			// User exits from the app
-			System.out.println("Goodbye, Come Back Again!");
+			System.out.println("Thank you for visiting the Neighborhood Bookstore. Come Back Again!");
 			running = false;
 			break;
 			// Error message
 			default: 
-				System.out.println("Invalid option.");
+				System.out.println("Invalid option. Please try again.");
 			}
 		
 		}

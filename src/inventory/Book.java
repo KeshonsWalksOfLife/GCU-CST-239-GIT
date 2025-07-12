@@ -11,7 +11,7 @@
 
 package inventory;
 // This class represents the books for the inventory system
-public class Book {
+public class Book implements Comparable<Book> {
 	// the title of the book
 	private String title;
 	// the author of the book
@@ -65,4 +65,8 @@ public class Book {
 	           "\n" + description + " [" + quantity + " in stock]";
 	}
 
+@Override
+public int compareTo(Book book) {
+	return this.title.compareToIgnoreCase(book.title);
+	}
 }

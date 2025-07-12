@@ -1,4 +1,4 @@
-# 📚 CST-239 Milestone — The NeighborHood BookStore 
+# 📚 CST-239 Milestone | The NeighborHood BookStore 
 
 ## 👤 Author
 **Keshon D. Bowman**  

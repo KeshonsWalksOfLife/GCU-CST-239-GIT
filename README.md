@@ -45,7 +45,9 @@ https://lucid.app/lucidchart/ea8d5261-0364-4f5c-a340-f7c91f798be3/edit?invitatio
 ## Lucid Chart The NeighborHood BookStore UML Link
 
 https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=492%2C-613%2C2997%2C1531%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12
-![image](https://github.com/user-attachments/assets/00574695-b816-45d8-9aef-299f70103c3a)
+<img width="1110" height="627" alt="Screenshot 2025-07-13 092159" src="https://github.com/user-attachments/assets/663dc9c7-2244-46ce-a46d-7986924a2ac6" />
+
+
 
 --- 
 

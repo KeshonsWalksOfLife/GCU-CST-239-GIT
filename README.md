@@ -1,15 +1,14 @@
 # 📚 CST-239 Milestone | The NeighborHood BookStore 
 
-## 👤 Author
+##
 **Keshon D. Bowman**  
 **Course:** CST-239-O500  
-**Milestone Completion**  
 
 ---
 
 ## 📌 Project Overview
 
-This is a **Java console-based application** that simulates a basic bookstore storefront. It demonstrates **object-oriented programming (OOP)** principles like abstraction, encapsulation, and modular design. The user can browse a list of books, purchase items, manage their shopping cart, and view a checkout total.
+This is a **Java console-based application** that builds on the fundamental basics of a bookstore storefront. It showcases **object-oriented programming (OOP)** principles and the user can browse a list of books, purchase items, manage their shopping cart, and view a checkout total.
 
 ---
 
@@ -18,20 +17,20 @@ This is a **Java console-based application** that simulates a basic bookstore st
 - Java SE 11
 - Scanner (for user input)
 - ArrayList (for inventory and cart management)
-- JDK terminal or IDE i.e Eclipse
+-  IDE > Eclipse
 
 ---
 
 ## 🔁 How It Works
 
 1. The `Main` method launches the `Store`.
-2. Sample books are added to the inventory.
-3. User is presented with a menu:
-   - View available books
-   - Purchase a book by title
-   - View their cart
-   - Cancel purchase (clears cart)
-   - Checkout and view total
+2. The books are added to the inventory.
+3. A user is presented with a menu:
+   - The user can view available books
+   - The user can purchase a book by its title
+   - The user can view their cart
+   - The user can cancel a purchase (clears cart)
+   - The user can checkout and view their total
 4. Inventory updates automatically when purchases are made
 
 ---

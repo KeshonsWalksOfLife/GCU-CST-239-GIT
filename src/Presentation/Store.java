@@ -39,11 +39,11 @@ public class Store {
 	/*
 	 * Loads the sample books into the inventory
 	 * */
-	public void loadBooks() {
-		inventory.addBook(new Book ("The Way Of The Superior Man", "David Deida", "A Mans Awareness", 19.99, 2));
-		inventory.addBook(new Book ("Million Dollar Weekend", "Noah Kagan", "Creating a million dollar business", 29.99, 4));
-		inventory.addBook(new Book ("Contagious", "Jonah Berger", "What makes things popular?", 18.95, 3));
-	} 
+//	public void loadBooks() {
+//		inventory.addBook(new Book ("The Way Of The Superior Man", "David Deida", "A Mans Awareness", 19.99, 2));
+//		inventory.addBook(new Book ("Million Dollar Weekend", "Noah Kagan", "Creating a million dollar business", 29.99, 4));
+//		inventory.addBook(new Book ("Contagious", "Jonah Berger", "What makes things popular?", 18.95, 3));
+//	} 
 	/*
 	 * Runs the Main.java loop that starts the application loop 
 	 *  display will present the menu to get the user decision until the user
@@ -51,7 +51,7 @@ public class Store {
 	public void run() {
 		Scanner scanner = new Scanner(System.in);
 		boolean running = true;
-		loadBooks(); 
+//		loadBooks(); 
 	
 		System.out.println("Welcome to the Neighborhood Bookstore!");
 		System.out.println("Story telling your vision to life.\n");

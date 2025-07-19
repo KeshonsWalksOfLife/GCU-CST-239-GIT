@@ -22,6 +22,8 @@ public class Book implements Comparable<Book> {
 	private double price;
 	// the number of books we have an inventory
 	private int quantity;
+	
+	public Book() {}
 
 	// Parameterized Constructor
 	// This initializes all of the fields when the book is created
@@ -43,7 +45,7 @@ public class Book implements Comparable<Book> {
 		return author;
 	}
 	
-	public String getDesc() {
+	public String getDescription() {
 		return description;
 	}
 	public double getPrice() {
@@ -54,6 +56,22 @@ public class Book implements Comparable<Book> {
 		return quantity;
 	}
 	// The Setter
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+	
+	public void setDescription(String description) {
+		this.description = description;
+	}
+	
+	public void setPrice(double price) {
+		this.price = price;
+	}
+	
 	public void setQuantity(int quantity) {
 		this.quantity = quantity;
 	}
@@ -64,7 +82,8 @@ public class Book implements Comparable<Book> {
 	    return "\"" + title + "\" by " + author + " - $" + price +
 	           "\n" + description + " [" + quantity + " in stock]";
 	}
-
+/*this will compare one book title to the other books title
+ * it will ignore all upper/lower cases */
 @Override
 public int compareTo(Book book) {
 	return this.title.compareToIgnoreCase(book.title);

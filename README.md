@@ -35,23 +35,20 @@ This is a **Java console-based application** that builds on the fundamental basi
 
 ---
 
-## Lucid Chart The NeighborHood BookStore Flowchart Link https://lucid.app/lucidchart/ea8d5261-0364-4f5c-a340-f7c91f798be3/edit?invitationId=inv_0bcb4f8f-a078-4faa-876b-158123691812
+## Lucid Chart The NeighborHood BookStore Flowchart Link 
+- https://lucid.app/lucidchart/ea8d5261-0364-4f5c-a340-f7c91f798be3/edit?invitationId=inv_0bcb4f8f-a078-4faa-876b-158123691812
 ![image](https://github.com/user-attachments/assets/fa42c483-a254-41af-838a-1310ac2de268)
 
 --- 
 
-<<<<<<< HEAD
-## Lucid Chart The NeighborHood BookStore UML Link https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12
+
+## Lucid Chart The NeighborHood BookStore UML Link 
+- https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12
 <img width="1145" height="649" alt="Screenshot 2025-07-19 180651" src="https://github.com/user-attachments/assets/038e0be0-bb06-45c1-97e9-5ffe1442d8cb" />
-=======
 
-=======
 ## Lucid Chart The NeighborHood BookStore UML Link
-
-
 <img width="932" height="529" alt="image" src="https://github.com/user-attachments/assets/39c18894-7d11-4235-9c78-f7112fe70e60" />
 https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12
->>>>>>> 9bbd177 (Updated the UML)
 
 
 

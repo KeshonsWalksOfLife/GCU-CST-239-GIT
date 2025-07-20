@@ -46,15 +46,6 @@ This is a **Java console-based application** that builds on the fundamental basi
 - https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12
 <img width="1145" height="649" alt="Screenshot 2025-07-19 180651" src="https://github.com/user-attachments/assets/038e0be0-bb06-45c1-97e9-5ffe1442d8cb" />
 
-## Lucid Chart The NeighborHood BookStore UML Link
-<img width="932" height="529" alt="image" src="https://github.com/user-attachments/assets/39c18894-7d11-4235-9c78-f7112fe70e60" />
-https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12
-
-
-
-
-
-
 --- 
 
 ## The Milestone videos saved in Google Drive

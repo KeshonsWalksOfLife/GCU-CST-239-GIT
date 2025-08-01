@@ -37,8 +37,7 @@ This is a **Java console-based application** that builds on the fundamental basi
 
 ## Lucid Chart The NeighborHood BookStore Flowchart Link 
 
-- https://lucid.app/lucidchart/ea8d5261-0364-4f5c-a340-f7c91f798be3/edit?invitationId=inv_0bcb4f8f-a078-4faa-876b-158123691812
-  
+- [https://lucid.app/lucidchart/ea8d5261-0364-4f5c-a340-f7c91f798be3/edit?invitationId=inv_0bcb4f8f-a078-4faa-876b-158123691812]
 ![image](https://github.com/user-attachments/assets/fa42c483-a254-41af-838a-1310ac2de268)
 
 --- 
@@ -46,15 +45,15 @@ This is a **Java console-based application** that builds on the fundamental basi
 
 ## Lucid Chart The NeighborHood BookStore UML Link 
 
-- https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12 \
-  
-<img width="1145" height="649" alt="Screenshot 2025-07-19 180651" src="https://github.com/user-attachments/assets/038e0be0-bb06-45c1-97e9-5ffe1442d8cb" />
+- [https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12]
+<img width="1032" height="646" alt="Screenshot 2025-07-27 082335" src="https://github.com/user-attachments/assets/20018aa1-91c8-48fd-9199-b015808e998d" />
+
 
 --- 
 
 ## The Milestone videos saved in Google Drive
-- Milestone 1 Video = https://drive.google.com/file/d/19lUdyKh2KyptoHDLsuMlwRyVxtoS5oto/view?usp=drive_link
-- Milestone 2 Video = https://drive.google.com/file/d/1pm1ZZs2hum2jO_YqPT0p-n_vPlfEn62M/view?usp=drive_link\
-- Milestone 3 Video = https://drive.google.com/file/d/1_mDs7Il-RxgYtoxPGX-8ecy3UZKvXHCE/view?usp=drive_link
-- Milestone 4 Video = https://drive.google.com/file/d/1onH77CZwlEd1-Mw7IRRD13atqkvnveaX/view?usp=drive_link
-https://drive.google.com/file/d/19lUdyKh2KyptoHDLsuMlwRyVxtoS5oto/view?usp=drive_link
+- Milestone 1 Video = [https://www.loom.com/share/32bfdb2db9844000bb0813362a1e5532?sid=27d76789-33ed-4c23-a1c1-b3949949a6ea]
+- Milestone 2 Video = [https://www.loom.com/share/d15d559c4511483d9d816e956e0b46c9?sid=13ff47be-3769-4b5d-a619-444b6d3cd32d]
+- Milestone 3 Video = [https://www.loom.com/share/d15d559c4511483d9d816e956e0b46c9?sid=13ff47be-3769-4b5d-a619-444b6d3cd32d]
+- Milestone 4 Video = [https://www.loom.com/share/6244ab4fa1564b7e89a804425309bbf3?sid=cc8c2f41-27ec-466f-b6c8-4751f8ff67c8]
+- Milestone 5 Video - [https://www.loom.com/share/ebd30ee0b5104ac5a72b9e8c78043b81?sid=42eb500c-1c4c-4a61-bb05-1b3e6a5e5ce1]

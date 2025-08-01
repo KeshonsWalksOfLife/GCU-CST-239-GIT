@@ -1,15 +1,17 @@
-/*
+/* 
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 1
- * 06/29/2025
- * 
+ * Milestone 5
+ * 07/27/2025
  * 
  * How to use the toString method in Java? - Stack Overflow.(2015, March 7). Stack Overflow.
  * https://stackoverflow.com/questions/3615721/how-to-use-the-tostring-method-in-java
+ * Oracle. (2019, September 11). Comparator (Java Platform SE 8 ). Oracle.com. 
+ * https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
  * */
 
 package inventory;
+
 // This class represents the books for the inventory system
 public class Book implements Comparable<Book> {
 	// the title of the book
@@ -48,6 +50,7 @@ public class Book implements Comparable<Book> {
 	public String getDescription() {
 		return description;
 	}
+	
 	public double getPrice() {
 		return price;
 	}
@@ -82,6 +85,7 @@ public class Book implements Comparable<Book> {
 	    return "\"" + title + "\" by " + author + " - $" + price +
 	           "\n" + description + " [" + quantity + " in stock]";
 	}
+	
 /*this will compare one book title to the other books title
  * it will ignore all upper/lower cases */
 @Override

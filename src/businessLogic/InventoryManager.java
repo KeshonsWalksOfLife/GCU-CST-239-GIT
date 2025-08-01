@@ -1,8 +1,8 @@
 /*
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 1
- * 06/29/2025
+ * Milestone 5
+ * 07/27/2025
  * ArrayList (Java Platform SE 8 ). (2019, September 11). Oracle.com. 
  * https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
  * Collections (Java Platform SE 8 ). (2025). Docs.oracle.com. 
@@ -24,6 +24,7 @@ import java.util.Arrays;
 import java.io.File;
 import java.io.IOException;
 import inventory.Book;
+import inventory.PriceComparator;
 
 /*
  * The InventoryManager class will handle the storage for the bookstore
@@ -53,7 +54,7 @@ public class InventoryManager {
 	 * each book will be called out to the toString method to format the output. */
 	public void displayBooks() {
 		// This will sort all books by their alphabet
-		Collections.sort(books);
+		Collections.sort(books, new PriceComparator());
 		
 		for(int i = 0; i < books.size(); i++) {
 			System.out.println((i + 1) + ", " + books.get(i).toString());
@@ -61,6 +62,7 @@ public class InventoryManager {
 			System.out.println();
 		}
 	}
+	
 	/*
 	 * The user can search for the book by its title
 	 * The search is case-insensitive*/

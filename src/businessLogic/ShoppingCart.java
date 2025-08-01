@@ -1,9 +1,8 @@
 /*
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 1
- * 06/29/2025
- * 
+ * Milestone 5
+ * 07/27/2025
  * ArrayList (Java Platform SE 8 ). (2019, September 11). Oracle.com. 
  * https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
  * How to use the toString method in Java? - Stack Overflow.(2015, March 7). Stack Overflow.

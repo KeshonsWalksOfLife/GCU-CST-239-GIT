@@ -59,3 +59,4 @@ This is a **Java console-based application** that builds on the fundamental basi
 - Milestone 3 Video = [https://www.loom.com/share/d15d559c4511483d9d816e956e0b46c9?sid=13ff47be-3769-4b5d-a619-444b6d3cd32d]
 - Milestone 4 Video = [https://www.loom.com/share/6244ab4fa1564b7e89a804425309bbf3?sid=cc8c2f41-27ec-466f-b6c8-4751f8ff67c8]
 - Milestone 5 Video - [https://www.loom.com/share/ebd30ee0b5104ac5a72b9e8c78043b81?sid=42eb500c-1c4c-4a61-bb05-1b3e6a5e5ce1]
+- Milestone 6 Video - [https://www.loom.com/share/0ed6e92751744689a639a1eb7bbc2f2a?sid=22026284-8e2a-4dff-acc8-1fe35e711419]

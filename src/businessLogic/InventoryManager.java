@@ -1,8 +1,8 @@
 /*
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 5
- * 07/27/2025
+ * Milestone 6
+ * 08/03/2025
  * ArrayList (Java Platform SE 8 ). (2019, September 11). Oracle.com. 
  * https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
  * Collections (Java Platform SE 8 ). (2025). Docs.oracle.com. 

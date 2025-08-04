@@ -1,8 +1,8 @@
 /*
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 5
- * 07/27/2025
+ * Milestone 6
+ * 08/03/2025
  * 
  * GeeksforGeeks. (2017, May 15). Switch Statements in Java. GeeksforGeeks. 
  * https://www.geeksforgeeks.org/java/switch-statement-in-java/
@@ -15,6 +15,8 @@
 package Presentation;
 
 import java.util.Scanner;
+
+import adminStack.AdminService;
 import businessLogic.InventoryManager;
 import businessLogic.ShoppingCart;
 import inventory.Book;
@@ -35,6 +37,10 @@ public class Store {
 		
 		inventory = new InventoryManager();
 		cart = new ShoppingCart();
+		
+		// This is where the Admin service will run in the background
+		Thread adminThread = new Thread(new AdminService(inventory, 2659));
+		adminThread.start();
 	} 
 	/*
 	 * Loads the sample books into the inventory

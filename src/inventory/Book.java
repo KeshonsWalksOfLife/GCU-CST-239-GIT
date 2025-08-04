@@ -1,8 +1,8 @@
 /* 
  * Keshon D. Bowman
  * CST-239-O500
- * Milestone 5
- * 07/27/2025
+ * Milestone 6
+ * 08/03/2025
  * 
  * How to use the toString method in Java? - Stack Overflow.(2015, March 7). Stack Overflow.
  * https://stackoverflow.com/questions/3615721/how-to-use-the-tostring-method-in-java

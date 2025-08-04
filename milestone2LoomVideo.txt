@@ -1,5 +1,2 @@
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,11
-[InternetShortcut]
-IDList=
+[{000214A0-0000-0000-C000-000000000046}] Prop3=19,11 [InternetShortcut] IDList= 
 URL=https://www.loom.com/share/d15d559c4511483d9d816e956e0b46c9?sid=dd651409-ff8c-433d-9c7c-e275e3f72d8f

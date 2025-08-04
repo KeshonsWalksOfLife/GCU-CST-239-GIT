@@ -38,7 +38,8 @@ This is a **Java console-based application** that builds on the fundamental basi
 ## Lucid Chart The NeighborHood BookStore Flowchart Link 
 
 - [https://lucid.app/lucidchart/ea8d5261-0364-4f5c-a340-f7c91f798be3/edit?invitationId=inv_0bcb4f8f-a078-4faa-876b-158123691812]
-![image](https://github.com/user-attachments/assets/fa42c483-a254-41af-838a-1310ac2de268)
+<img width="416" height="633" alt="image" src="https://github.com/user-attachments/assets/5c053c7b-8a86-406d-b333-aaf53ab985e2" />
+
 
 --- 
 

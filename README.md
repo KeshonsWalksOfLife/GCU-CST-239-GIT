@@ -46,7 +46,8 @@ This is a **Java console-based application** that builds on the fundamental basi
 ## Lucid Chart The NeighborHood BookStore UML Link 
 
 - [https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12]
-<img width="1032" height="646" alt="Screenshot 2025-07-27 082335" src="https://github.com/user-attachments/assets/20018aa1-91c8-48fd-9199-b015808e998d" />
+<img width="1540" height="696" alt="image" src="https://github.com/user-attachments/assets/cc6a6872-e252-4e8f-94cc-901360f598d2" />
+
 
 
 --- 

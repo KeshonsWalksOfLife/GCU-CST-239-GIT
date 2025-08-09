@@ -1,3 +1,10 @@
+/*
+ * Keshon D. Bowman
+ * CST-239-O500
+ * Milestone 6
+ * 08/03/2025
+ */
+
 package adminStack;
 
 import java.io.BufferedReader;
@@ -32,7 +39,7 @@ public class AdminService implements Runnable {
                 handleClient(clientSocket);
             }
         } catch (IOException e) {
-            System.out.println("Error with Admin Service: " + e.getMessage());
+            System.out.println("Error with the Admin Services: " + e.getMessage());
         }
     }
 
@@ -66,13 +73,14 @@ public class AdminService implements Runnable {
             
 
                 } else if (command.startsWith("U")) {
-                    
                 	// Update inventory with new products
-                    String jsonPayload = command.substring(1); 
+                    String jsonPayload = in.readLine();
                     System.out.println("Server received update payload: " + jsonPayload);
                     
                     ObjectMapper mapper = new ObjectMapper();
                     Book[] newBooks = mapper.readValue(jsonPayload, Book[].class);
+                    
+                    inventory.clearInventory();
                     
                     for (Book b : newBooks) {
                         inventory.addBook(b);

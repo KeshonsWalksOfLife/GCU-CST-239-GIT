@@ -1,23 +1,5 @@
 [
- 	{
- 		"title": "The Way Of The Superior Man",
- 		"author": "David Deida",
- 		"description": "A Mans Awareness",
- 		"price": 19.99,
- 		"quantity": 2
- 	},
- 	{
- 		"title": "Million Dollar Weekend",
- 		"author": "Noah Kagan",
- 		"description": "Creating a million dollar business",
- 		"price": 29.99,
- 		"quantity": 4
- 	},
- 	{
- 		"title": "Contagious",
- 		"author": "Jonah Berger",
- 		"description": "What makes things popular?",
- 		"price": 18.95,
- 		"quantity": 3
- 	}
- ]
+{"title":"The Way Of The Superior Man","author":"David Deida","description":"A Mans Awareness","price":19.99,"quantity":2},
+{"title":"Million Dollar Weekend","author":"Noah Kagan","description":"Creating a million dollar business","price":29.99,"quantity":4},
+{"title":"Contagious","author":"Jonah Berger","description":"What makes things popular?","price":18.95,"quantity":3},
+{"title":"Atomic Habits","author":"James Clear","description":"Habit building","price":12.99,"quantity":3}]

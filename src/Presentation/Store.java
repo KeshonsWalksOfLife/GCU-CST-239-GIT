@@ -14,12 +14,15 @@
 
 package Presentation;
 
+import java.io.IOException;
+import java.util.List;
 import java.util.Scanner;
 
 import adminStack.AdminService;
 import businessLogic.InventoryManager;
 import businessLogic.ShoppingCart;
 import inventory.Book;
+
 
 /**
  *The store class is what will be shown for the bookstore application
@@ -38,26 +41,26 @@ public class Store {
 		inventory = new InventoryManager();
 		cart = new ShoppingCart();
 		
+		// Loading inventory from Books.json
+		try {
+			FileService fileservice = new FileService();
+			List<Book> loadedBooks = fileservice.readInventoryFromJson("Books.json");
+			
+			for (Book book : loadedBooks) {
+				inventory.addBook(book);
+			}
+		} catch (IOException e) {
+			System.out.println("Could not load books: " + e.getMessage());
+		}
+		
 		// This is where the Admin service will run in the background
 		Thread adminThread = new Thread(new AdminService(inventory, 2659));
 		adminThread.start();
 	} 
-	/*
-	 * Loads the sample books into the inventory
-	 * */
-//	public void loadBooks() {
-//		inventory.addBook(new Book ("The Way Of The Superior Man", "David Deida", "A Mans Awareness", 19.99, 2));
-//		inventory.addBook(new Book ("Million Dollar Weekend", "Noah Kagan", "Creating a million dollar business", 29.99, 4));
-//		inventory.addBook(new Book ("Contagious", "Jonah Berger", "What makes things popular?", 18.95, 3));
-//	} 
-	/*
-	 * Runs the Main.java loop that starts the application loop 
-	 *  display will present the menu to get the user decision until the user
-	 * is ready to leave.*/
+	
 	public void run() {
 		Scanner scanner = new Scanner(System.in);
 		boolean running = true;
-//		loadBooks(); 
 	
 		System.out.println("Welcome to the Neighborhood Bookstore!");
 		System.out.println("Story telling your vision to life.\n");

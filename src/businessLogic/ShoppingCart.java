@@ -63,4 +63,9 @@ private ArrayList<Book> cartItem;
 	public ArrayList<Book> getCartItems() {
 		return cartItem;
 	}
+	
+	public void addToCart(String string, String string2, String string3, double d, int i) {
+		// TODO Auto-generated method stub
+		
+	}
 }

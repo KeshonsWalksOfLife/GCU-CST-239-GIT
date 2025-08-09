@@ -1,3 +1,10 @@
+/*
+ * Keshon D. Bowman
+ * CST-239-O500
+ * Milestone 6
+ * 08/03/2025
+ */
+
 package adminStack;
 
 import java.io.BufferedReader;
@@ -29,12 +36,21 @@ public class AdminClient {
                 if ("EXIT".equalsIgnoreCase(command)) {
                     break; // quit client
                 }
-
+                
+                // if command is "U", Send U first, then ask for JSON next
+                if (command.equalsIgnoreCase("U")) {
+                	out.println("U");
+                	
+                	System.out.println("Enter JSON payload: ");
+                	String jsonPayload = scanner.nextLine();
+                	out.println(jsonPayload);
+                } else {
                 out.println(command); // send to server
                 out.flush();
+                }
+                
                
                 String response;
-                
                 while ((response = in.readLine()) != null) { 
                 	System.out.println("Client received: " + response);
                 	break; 

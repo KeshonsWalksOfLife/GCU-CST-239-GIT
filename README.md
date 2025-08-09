@@ -47,7 +47,8 @@ This is a **Java console-based application** that builds on the fundamental basi
 ## Lucid Chart The NeighborHood BookStore UML Link 
 
 - [https://lucid.app/lucidchart/a7cdb012-0ed4-4060-97b8-a4e3ba904f4b/edit?viewport_loc=849%2C-384%2C2173%2C976%2C0_0&invitationId=inv_bb5aa3c7-0656-48c8-a6f9-67eefa417d12]
-<img width="1540" height="696" alt="image" src="https://github.com/user-attachments/assets/cc6a6872-e252-4e8f-94cc-901360f598d2" />
+<img width="1478" height="683" alt="neighborHoodBookStore-UML" src="https://github.com/user-attachments/assets/a9bee599-47da-48b6-9d2c-d77a8f6de011" />
+
 
 
 
@@ -60,3 +61,4 @@ This is a **Java console-based application** that builds on the fundamental basi
 - Milestone 4 Video = [https://www.loom.com/share/6244ab4fa1564b7e89a804425309bbf3?sid=cc8c2f41-27ec-466f-b6c8-4751f8ff67c8]
 - Milestone 5 Video - [https://www.loom.com/share/ebd30ee0b5104ac5a72b9e8c78043b81?sid=42eb500c-1c4c-4a61-bb05-1b3e6a5e5ce1]
 - Milestone 6 Video - [https://www.loom.com/share/0ed6e92751744689a639a1eb7bbc2f2a?sid=22026284-8e2a-4dff-acc8-1fe35e711419]
+- Milestone 7 Video - [https://www.loom.com/share/1afd582c1c98434abdcf34956a328c98?sid=b76e333f-ecc7-4ef9-9384-f09d2a483cb3]

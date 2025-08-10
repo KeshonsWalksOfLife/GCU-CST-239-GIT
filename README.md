@@ -12,6 +12,11 @@ This is a **Java console-based application** that builds on the fundamental basi
 
 ---
 
+## Final Presentation
+
+This is the final application presentation that shows exactly how to utilize The NeighborHood BookStore =
+[https://www.loom.com/share/fc6c9e1e3b7344d1ba472b8ba6f55f8f?sid=439e9b7c-a3df-4631-bd07-f882f6fa030c]
+
 ## 🧱 Technologies Used
 
 - Java SE 11
